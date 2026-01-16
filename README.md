@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://zybotech.com/wp-content/uploads/2023/08/zybo-tech-logo.png" alt="Zybo Tech" width="160" />
 
 **Software Developer @ [Zybo Tech](https://zybotech.com/)**
 *C# • ASP.NET • SQL Server • Azure • Enterprise & Full-Stack Development*
