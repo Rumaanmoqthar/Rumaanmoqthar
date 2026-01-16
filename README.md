@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://zybotech.com/wp-content/uploads/2023/08/zybo-tech-logo.png" alt="Zybo Tech" width="160" />
 
 **Software Developer @ [Zybo Tech](https://zybotech.com/)**
 *C# • ASP.NET • SQL Server • Azure • Enterprise & Full-Stack Development*
@@ -26,7 +27,7 @@ Best practices for integrating Restful Services in enterprise-level applications
 
 ## 🧑‍💼 Currently Working at Zybo Tech
 
-At **Zybo Tech**, I work as a **Software Developer** focusing on building and maintaining enterprise-grade applications using **C#, ASP.NET MVC, SQL Server, and Azure**. I contribute to backend development, database-driven features, and scalable application design while collaborating with cross-functional teams.<br><br>
+At **Zybo Tech**, I work as a **Software Developer** involved in both **backend and frontend development**. I build and maintain enterprise-grade applications using **C#, ASP.NET MVC, SQL Server, and Microsoft Azure**, while also developing rich user interfaces with **HTML, CSS, JavaScript, Bootstrap, and Telerik UI**. I contribute to end-to-end feature development, database-driven modules, and scalable application design while collaborating with cross-functional teams.<br><br>
 
 🌱 I’m currently learning<br><br>
 Deepening my understanding of Data Structures and Algorithms.<br><br>
