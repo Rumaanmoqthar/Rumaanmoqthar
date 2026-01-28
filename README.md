@@ -39,7 +39,8 @@ Backend & DB: Node.js, **SQL Server, Entity Framework**, MongoDB, MySQL.<br><br>
 Concepts: RESTful Services, MVC Architecture, Responsive Design.<br><br><br>
 
 ⚡ Fun fact<br><br>
-I am a sportsman and received the Best Performer Award in Kabbadi during college!.
+I am a sportsman and received the Best Performer Award in Kabbadi during school and college!.
+I am also an Gamer i like to play compitative team games in my free time.
 
 # 📊 GitHub Stats:
 
