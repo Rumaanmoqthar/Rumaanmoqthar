@@ -168,6 +168,8 @@ Production ASP.NET MVC applications with SQL Server back-ends — role-based mod
 </table>
 
 ---
+<img src="https://raw.githubusercontent.com/Rumaanmoqthar/Rumaanmoqthar/output/snake.svg" />
+---
 
 ## 📊 GitHub Stats
 
@@ -218,4 +220,3 @@ Open to backend, full-stack and enterprise .NET opportunities and collaborations
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=110&section=footer" />
 
 </div>
-<img src="https://raw.githubusercontent.com/Rumaanmoqthar/Rumaanmoqthar/output/snake.svg" />
