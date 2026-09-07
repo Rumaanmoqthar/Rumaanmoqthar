@@ -169,7 +169,7 @@ Production ASP.NET MVC applications with SQL Server back-ends — role-based mod
 
 ---
 <img src="https://raw.githubusercontent.com/Rumaanmoqthar/Rumaanmoqthar/output/snake.svg" />
----
+
 
 ## 📊 GitHub Stats
 
