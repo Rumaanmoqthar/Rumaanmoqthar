@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Rumaan%20Moqthar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%40%20Zybo%20Tech%20%7C%20Full-Stack%20%26%20Enterprise%20Applications&descAlignY=56&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Rumaan%20Moqthar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%40%20Zybo%20Tech%20%7C%20Full-Stack%20and%20Enterprise%20Applications&descAlignY=56&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=C%23+%7C+ASP.NET+MVC+%7C+SQL+Server+%7C+Azure;React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;Building+enterprise-grade+web+applications;Clean+architecture.+Scalable+systems." />
 
@@ -218,3 +218,4 @@ Open to backend, full-stack and enterprise .NET opportunities and collaborations
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=110&section=footer" />
 
 </div>
+<img src="https://raw.githubusercontent.com/Rumaanmoqthar/Rumaanmoqthar/output/snake.svg" />
