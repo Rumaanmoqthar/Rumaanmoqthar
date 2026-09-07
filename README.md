@@ -231,9 +231,9 @@ Open to backend, full-stack and enterprise .NET opportunities and collaborations
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br><br>
-
-<i>"Good software is not the one that works — it's the one that keeps working as it grows."</i>
+<a href="https://rumaanmoqthar.vercel.app">
+  <img src="https://img.shields.io/badge/View_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 <br><br>
 
