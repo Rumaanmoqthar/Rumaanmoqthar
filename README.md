@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Rumaan%20Moqthar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%40%20Zybo%20Tech%20%7C%20Full-Stack%20and%20Enterprise%20Applications&descAlignY=56&descSize=16" />
+<img src="./assets/banner.png" alt="Rumaan Moqthar — Software Developer @ Zybo Tech" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=C%23+%7C+ASP.NET+MVC+%7C+SQL+Server+%7C+Azure;React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;Building+enterprise-grade+web+applications;Clean+architecture.+Scalable+systems." />
-
-<br>
+<br><br>
 
 <a href="https://rumaanmoqthar.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -97,9 +95,7 @@ Building and maintaining enterprise applications across the stack. Backend work 
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,github,vscode,postman,figma&theme=dark" />
 
-</div>
-
-<div align="center">
+<br>
 
 `ASP.NET MVC` · `Entity Framework` · `SQL Server` · `RESTful APIs` · `MERN Stack` · `ShadCN UI` · `Telerik UI` · `Responsive Design`
 
@@ -168,8 +164,6 @@ Production ASP.NET MVC applications with SQL Server back-ends — role-based mod
 </table>
 
 ---
-<img src="https://raw.githubusercontent.com/Rumaanmoqthar/Rumaanmoqthar/output/snake.svg" />
-
 
 ## 📊 GitHub Stats
 
@@ -184,17 +178,7 @@ Production ASP.NET MVC applications with SQL Server back-ends — role-based mod
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rumaanmoqthar&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rumaanmoqthar&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://raw.githubusercontent.com/Rumaanmoqthar/Rumaanmoqthar/output/snake.svg" alt="Contribution graph" />
 
 </div>
 
@@ -217,6 +201,8 @@ Open to backend, full-stack and enterprise .NET opportunities and collaborations
 
 <i>"Good software is not the one that works — it's the one that keeps working as it grows."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=110&section=footer" />
+<br><br>
+
+<img src="./assets/footer.png" alt="" width="100%" />
 
 </div>
