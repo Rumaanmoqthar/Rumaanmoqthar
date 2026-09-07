@@ -171,8 +171,14 @@ Production ASP.NET MVC applications with SQL Server back-ends — role-based mod
 <img src="https://raw.githubusercontent.com/Rumaanmoqthar/Rumaanmoqthar/output/snake.svg" />
 
 
-📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rumaanmoqthar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumaanmoqthar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Rumaanmoqthar?style=for-the-badge&logo=github&label=FOLLOWERS&color=1F6FEB&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/Rumaanmoqthar?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=1F6FEB&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BASED%20IN-BANGALORE,%20INDIA-1F6FEB?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-1F6FEB?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
@@ -180,15 +186,57 @@ Production ASP.NET MVC applications with SQL Server back-ends — role-based mod
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Rumaanmoqthar/Rumaanmoqthar/output/snake.svg" alt="Contribution graph" /> </div>
+</div>
+
+---
+
+## 🎯 Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏢 Professional**
+
+Shipping production ASP.NET MVC applications at Zybo Tech — database-driven modules, RESTful integrations and Azure deployments used by real clients.
+
+**🚀 Side Projects**
+
+Built OneClick Portfolio end to end: resume parsing, structured storage and template-driven site generation on the MERN stack.
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Currently Sharpening**
+
+Data Structures & Algorithms, advanced ASP.NET patterns, and SQL Server query optimisation.
+
+**🏅 Beyond Code**
+
+Best Performer Award in Kabaddi across school and college — the same instinct for reading a team applies to shipping software with one.
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-💬 Let's build something
+
+### 💬 Let's build something
 
 Open to backend, full-stack and enterprise .NET opportunities and collaborations.
 
-<a href="https://www.linkedin.com/in/rumaan-moqthar-dev1"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://rumaanmoqthar.vercel.app"> <img src="https://img.shields.io/badge/View_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/rumaan-moqthar-dev1">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://rumaanmoqthar.vercel.app">
+  <img src="https://img.shields.io/badge/View_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 <br><br>
+
+<i>"Good software is not the one that works — it's the one that keeps working as it grows."</i>
 
 <br><br>
 
